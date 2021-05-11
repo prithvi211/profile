@@ -1,0 +1,34 @@
+h1 {
+    color: blue
+ }
+*{
+    border: solid
+}
+h2 {
+    color:lime
+}
+
+.header{
+    background-color: yellow;
+    display: flex;
+    justify-content: space-between;
+}
+
+.games{
+
+    background-color: orangered;
+    display: flex;
+    flex-wrap:wrap;
+    justify-content: space-evenly;
+    
+}
+
+.games p{
+    color:purple;
+    font-size : 20px;
+}
+
+.footer{
+    display: flex;
+    justify-content: flex-end;
+}
